@@ -1,3 +1,11 @@
-# meu primeiro codigo php com git
+# # Meu primeiro git
+# Sistema de cadrastro do aluno
 
-meu primeiro codigo de php com imprimindo uma lista de nome e turmas
+# Objetivo
+criar um sistema simple de cadrastro de alunos
+
+# Tecnologias
+1.PHP
+2.HTML
+3.Git
+4.GitHub
