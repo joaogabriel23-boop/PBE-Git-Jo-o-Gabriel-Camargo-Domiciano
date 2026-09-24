@@ -1,13 +1,7 @@
 <?php
     echo "<br>";
-    $alunos = array("João", "Maria", "Pedro", "Ana", "Lucas");
+    $alunos = array("João 2°ano A", "Maria 5°Ano B", "Pedro 7°ano B", "Ana 1°Ano EM B", "Lucas 2°ano EM A");
     foreach ($alunos as $aluno) {
      echo $aluno . "<br>";
-    }
-
-    echo "<br>";
-    $Turmas = array("2°ano A", "5°Ano B", "7°ano B", "1°Ano EM B", "2°ano EM A", "5°Ano A");
-    foreach ($Turmas as $Turma) {
-     echo $Turma . "<br>";
     }
 ?>
