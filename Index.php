@@ -18,3 +18,4 @@ echo "O email é $email";
 echo "<br>";
 echo "Sua matricula é $matricula";
 echo "<br>";
+echo "Aluno $nome CADATRADO COM SUCESSO"
