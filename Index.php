@@ -4,7 +4,7 @@ $idade = "17 Anos";
 $curso = "Desenvolvimento de Sistemas";
 $turma = "1 ano ° A DS";
 $email ="joaocamargo0654@gmail.com";
-$matricula = "09283043";ik;
+$matricula = "09283043";
 
 echo "Aluno é $nome";
 echo "<br>";
